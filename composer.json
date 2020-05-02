@@ -1,0 +1,16 @@
+{
+    "name": "33664/nsp-adhesion",
+    "description": "Dev first plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Nina Presotto",
+            "email": "contact@ninapresotto.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
